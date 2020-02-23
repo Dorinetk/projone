@@ -1,7 +1,5 @@
 # Parmesan
 
-# Parmesan
-
 This app, Parmesan, is a web application that’s purpose is to find the perfect recipe based off of the user’s search input, the user also has the option to have the health facts and ingredients read out to them if needed.
 
 As a health conscious individual who cares about cooking at home, I often find it hard to search for a recipe because it’s time consuming and there are way too many options to pick from.
